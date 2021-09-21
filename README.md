@@ -2,11 +2,11 @@
 
   🔭 I’m currently working on Oley.com
 
-🌱 I’m currently learning Web&Flutter
+🌱 I’m currently learning Backend
 
-👯 I’m looking to collaborate on Flutter
+👯 I’m looking to collaborate on Blockchain 
 
-🤔 I’m looking for help with Flutter
+🤔 I’m looking for help with Python and JavaScript
 
 💬 Ask me about Fluter
 
