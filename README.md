@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  🔭 I’m currently working on Oley.com
+  🔭 I’m currently working on Finablock.com
 
 🌱 I’m currently learning Backend
 
@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with Python and JavaScript
 
-💬 Ask me about Fluter
+💬 Ask me about Blockchain
 
 ⚡ Fun fact: Like cats 🐈
 <!--
