@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-  🔭 I’m currently working on Finablock.com
+  🔭 I’m currently working on monopayments.com
 
-🌱 I’m currently learning Backend
+🌱 I’m currently learning Full Stack DAPPs
 
 👯 I’m looking to collaborate on Blockchain 
 
-🤔 I’m looking for help with Python and JavaScript
+🤔 I’m looking for help with Python and JavaScript&Go
 
 💬 Ask me about Blockchain
 
