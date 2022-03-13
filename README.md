@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate software developer. Don't care much titles. Still in love blockchain, always be loyal student.
+Passionate software developer. Don't care much titles.Love blockchain, always be loyal student.
 
  🔭 I’m currently working on [monopayments](https://monopayments.com)
 
