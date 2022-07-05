@@ -12,7 +12,7 @@
 </div>
 
 <div id="header" align="center">
-  ### Hi there 👋
+  Hi there 👋
 </div>
 
 
@@ -32,7 +32,7 @@ Passionate software developer. Don't care much titles.Love blockchain, always be
 
 👯 I’m looking to collaborate on Blockchain 
 
-🤔 I’m looking for help with Python and JavaScript&Go
+🤔 I’m looking for help with JavaScript&Go
 
 💬 Ask me about Blockchain
 
